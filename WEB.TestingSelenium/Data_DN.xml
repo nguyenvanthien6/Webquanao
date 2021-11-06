@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestDatas>
+  <Login>
+    <TenDN>Test</TenDN>
+    <MatKhau>123</MatKhau>
+  </Login>
+  <Login>
+    <TenDN>pokemon123</TenDN>
+    <MatKhau>antom123  </MatKhau>
+  </Login>
+  <Login>
+    <TenDN>Tungvu</TenDN>
+    <MatKhau>TungvuV123</MatKhau>
+  </Login>
+  <Login>
+    <TenDN>HoangVu</TenDN>
+    <MatKhau>Hot123</MatKhau>
+  </Login>
+  <Login>
+    <TenDN>Doubleshit</TenDN>
+    <MatKhau>0299</MatKhau>
+  </Login>
+  
+</TestDatas>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TestDatas>
+  <Login>
+    <TenDN>admin1</TenDN>
+    <MatKhau>1234563</MatKhau>
+  </Login>
+  <Login>
+    <TenDN>doubleshit2</TenDN>
+    <MatKhau>02991</MatKhau>
+  </Login>
+  <Login>
+    <TenDN>tam122</TenDN>
+    <MatKhau>1122</MatKhau>
+  </Login>
+  <Login>
+    <TenDN>thien69</TenDN>
+    <MatKhau>2111</MatKhau>
+  </Login>
+  <Login>
+    <TenDN>ab11c</TenDN>
+    <MatKhau>12224</MatKhau>
+  </Login>
+  
+</TestDatas>
